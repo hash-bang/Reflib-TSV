@@ -1,4 +1,3 @@
-var _ = require('lodash');
 var rlCSV = require('reflib-csv');
 
 var parse = function(data, options) {
